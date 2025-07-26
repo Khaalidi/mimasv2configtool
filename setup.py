@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "mimasv2config=main:main",
+            "mimasv2configtool=main:main",
         ],
     },
     classifiers=[
