@@ -535,7 +535,6 @@ class MimasV2ConfigDownloader:
 def main():
     print(logo)
     print("\033[1;32m\tNumato Lab Mimas V2 Configuration Tool\033[0m\n")
-    print("\033[1;33m\t\tMaintained by @Khaalidi\033[0m\n")
 
     parser = argparse.ArgumentParser(
         description="Numato Lab Mimas V2 Configuration Tool"
