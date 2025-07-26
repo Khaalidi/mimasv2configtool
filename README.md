@@ -5,6 +5,11 @@
 ```
 pip install .
 ```
+or
+
+```
+pip install 'git+https://github.com/Khaalidi/mimasv2configtool' 
+```
 ## Usage
 ```
 mimasv2configtool <PORT> <Binary File>
