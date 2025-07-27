@@ -1,3 +1,4 @@
 venv/
 build/
 mimasv2configtool.egg-info/
+dist/
